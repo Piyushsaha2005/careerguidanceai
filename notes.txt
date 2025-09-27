@@ -1,0 +1,2 @@
+html line 270 question section
+GEMINI_API_KEY="AIzaSyBhtC7W8J72fJ_mFT8RS_mWUaVtAaUBnKY"
