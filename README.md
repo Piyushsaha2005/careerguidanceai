@@ -1,2 +1,2 @@
 # careerguidanceai
-[video link](https://youtu.be/scVIBUcMUAw?si=nTM_r1J2GRh-KQe5)
+[video link](https://youtu.be/L3DdGPTALPc?si=ZKs3kSTBURE8sVpK)
